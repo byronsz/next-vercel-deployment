@@ -1,0 +1,5 @@
+.menu-container a{
+    display: flex;
+    flex-direction: initial;
+    justify-content: space-between;
+}
